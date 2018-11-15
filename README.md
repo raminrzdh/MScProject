@@ -1,4 +1,10 @@
-# MSc Thesis: Improving Trustability of RTL IP Cores
-# Abstract
+# My MSc Thesis
+
+Title: <b>Improving Trustability of RTL IP Cores</b>
+
+## Author
+The original author of this thesis is [Ramin Norouzzadeh](www.github.com/raminrz) and the supervising professor was Prof. [Morteza  SahebZamani](http://ceit.aut.ac.ir/~szamani/) but the whole research is the courtesy of [Amirkabir University of Technology](http://aut.ac.ir).
+
+## Abstract
 The process of manufacturing digital chips has been modified in such a way that the stages of its manufacturing and production are carried out by different companies. The emerging outsourcing of design and manufacturing needs is ever-increasing .The use of third-party intellectual property and automated hardware design tools have become more vulnerable in this area. One of the vulnerabilities of this cycle is a change in the design of hard-core kernels and adds malignant performance at this level, which is considered a more serious challenge in large and complex designs. The solutions presented to solve this problem are divided into two general categories of test and validation solutions and solutions that are available at design time. Our main focus in this research is on design solutions at the level of transmission stability.
 In this research, we have tried to provide the methods in the form of a framework, increasing the reliability of the hardware core at the level of stability transmission. In the proposed framework, four methods for analyzing the transition conditions of the signals in the design, the challenge of rational and computational expressions, the examination of the frequency of the implementation of each assignment instruction and the evaluation of the effectiveness of each assignment instruction have been introduced and used. To evaluate this framework, the necessary tests have been carried out on the benchmark circuits at the transitional stability level and have been successful in all of the benchmark circuits and the various types of trojans in them. The results of the experiments indicate that the use of existing methods together can detect many different combinations of vulnerabilities at this level.
