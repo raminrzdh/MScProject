@@ -3,7 +3,7 @@
 Title: <b>Improving Trustability of RTL IP Cores</b>
 
 ## Author
-The original author of this thesis is [Ramin Norouzzadeh](www.github.com/raminrz) and the supervising professor was Prof. [Morteza  SahebZamani](http://ceit.aut.ac.ir/~szamani/) but the whole research is the courtesy of [Amirkabir University of Technology](http://aut.ac.ir).
+The original author of this thesis is Ramin Norouzzadeh and the supervising professor was Prof. [Morteza  SahebZamani](http://ceit.aut.ac.ir/~szamani/) but the whole research is the courtesy of [Amirkabir University of Technology](http://aut.ac.ir).
 
 ## Abstract
 The process of manufacturing digital chips has been modified in such a way that the stages of its manufacturing and production are carried out by different companies. The emerging outsourcing of design and manufacturing needs is ever-increasing .The use of third-party intellectual property and automated hardware design tools have become more vulnerable in this area. One of the vulnerabilities of this cycle is a change in the design of hard-core kernels and adds malignant performance at this level, which is considered a more serious challenge in large and complex designs. The solutions presented to solve this problem are divided into two general categories of test and validation solutions and solutions that are available at design time. Our main focus in this research is on design solutions at the level of transmission stability.
